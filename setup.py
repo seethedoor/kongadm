@@ -38,6 +38,6 @@ setup(name='kongadm',
 
       zip_safe=False,
 
-      setup_requires=requirements,
+      install_requires=requirements,
 
       test_suite='nose.collector')
