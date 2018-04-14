@@ -20,7 +20,7 @@ with open("requirements.txt") as requirements_file:
 
 setup(name='kongadm',
 
-      version='0.3',
+      version='0.1',
 
       url='https://github.com/seethedoor/kongadm',
 
