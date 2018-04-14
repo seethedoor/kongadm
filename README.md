@@ -1,6 +1,4 @@
-# kongadm
-
-[![GitHub license](https://img.shields.io/github/license/seethedoor/kongadm.svg)](https://github.com/seethedoor/kongadm/blob/master/LICENSE)
+# kongadm [![GitHub license](https://img.shields.io/github/license/seethedoor/kongadm.svg)](https://github.com/seethedoor/kongadm/blob/master/LICENSE) [![Version](https://img.shields.io/badge/version-0.1-green.svg)](https://img.shields.io/badge/version-0.1-green.svg)
 
 
 a kong management python client
